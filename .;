@@ -1,0 +1,29 @@
+ <section class="order-section">
+        <h1>VOICE</h1>
+        <p>Introducing voice feature . Where you can ask your Queries by just saying it </p>
+
+        <div class="order-cards-container">
+            <div class="order-card">
+                <h3>Enhanced Answering</h3>
+                <p>You can get your answer of any problems within seconds</p>
+              
+            </div>
+
+            <div class="order-card">
+                <h3>SAFETY</h3>
+                <p>ThiS AI Bot is trained for wellfare of the world and helping people but we also kept the safety in our minds so it doesn't have any ablity to harm your device </p>
+             
+            </div>
+
+            
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 NitroWebz. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+
+       
